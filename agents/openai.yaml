@@ -1,0 +1,4 @@
+interface:
+  display_name: "面试回声 · Interview Echo"
+  short_description: "复盘面试录屏，文首附音频链接，逐题整理问答与 AI 建议，预留老师建议栏"
+  default_prompt: "使用 $interview-echo 复盘我上传的面试录屏，最上面放音频链接，再逐题整理面试官的问题、我的回答和 AI 建议，最后留出老师建议的位置。"
